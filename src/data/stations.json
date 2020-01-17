@@ -1,0 +1,2133 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":1,
+        "BUS_ID": "1",
+        "NAME": "ДС Веснянка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4781746, 53.9317808]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":2,
+        "BUS_ID": "1",
+        "NAME": "Нарочанская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4760094, 53.9336138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":3,
+        "BUS_ID": "1",
+        "NAME": "Минск-Арена"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4785199, 53.9372519]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":4,
+        "BUS_ID": "1",
+        "NAME": "Университет физкультуры"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4854615, 53.9374224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":5,
+        "BUS_ID": "1",
+        "NAME": "Радужная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4956653, 53.9353411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":6,
+        "BUS_ID": "1",
+        "NAME": "Крупцы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.503006, 53.933528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":7,
+        "BUS_ID": "1",
+        "NAME": "Футбольный манеж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.509327, 53.931396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":8,
+        "BUS_ID": "1",
+        "NAME": "Площадь Государственного флага"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4834629, 53.9283234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":9,
+        "BUS_ID": "1",
+        "NAME": "Площадь свободы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5208982, 53.903192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":10,
+        "BUS_ID": "1",
+        "NAME": "Ленина"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5726481, 53.893064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":11,
+        "BUS_ID": "1",
+        "NAME": "Кирова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.55195, 53.893259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":12,
+        "BUS_ID": "1",
+        "NAME": "Гостиница \"Юбилейная\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.54698, 53.911383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":13,
+        "BUS_ID": "2с",
+        "NAME": "ДС \"Лошица-2\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5884019, 53.8343229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":14,
+        "BUS_ID": "2с",
+        "NAME": "АЗС"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.578656, 53.835212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":15,
+        "BUS_ID": "2с",
+        "NAME": "Янки Лучины"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.575482, 53.839332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":16,
+        "BUS_ID": "2с",
+        "NAME": "Переулок Чижевских"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5342451, 53.846608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":17,
+        "BUS_ID": "2с",
+        "NAME": "Семенова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.570469, 53.869277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":18,
+        "BUS_ID": "2с",
+        "NAME": "Троллейбусный парк"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5863481, 53.874776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":19,
+        "BUS_ID": "2с",
+        "NAME": "Автовокзал \"Восточный\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.598485, 53.878246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":20,
+        "BUS_ID": "2с",
+        "NAME": "Партизанский проспект"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5909974, 53.879138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":21,
+        "BUS_ID": "2с",
+        "NAME": "Станция метро \"Тракторный завод\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6143409, 53.889986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":22,
+        "BUS_ID": "3с",
+        "NAME": "ДС \"Чижовка\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6303889, 53.83514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":23,
+        "BUS_ID": "3с",
+        "NAME": "Чижовка-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.616311, 53.834378]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":24,
+        "BUS_ID": "3с",
+        "NAME": "Чижовка-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6102519, 53.834345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":25,
+        "BUS_ID": "3с",
+        "NAME": "Камвольный комбинат"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5724475, 53.8604322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":26,
+        "BUS_ID": "3с",
+        "NAME": "Семенова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.570469, 53.869277]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":27,
+        "BUS_ID": "3с",
+        "NAME": "Аранская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.565681, 53.885923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":28,
+        "BUS_ID": "3с",
+        "NAME": "Вокзал"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.55091, 53.891573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":29,
+        "BUS_ID": "4",
+        "NAME": "ДС \"Дружная\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.546951, 53.8893383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":30,
+        "BUS_ID": "4",
+        "NAME": "Академия управления"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.538492, 53.888195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":31,
+        "BUS_ID": "4",
+        "NAME": "Гостиница \"Спутник\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.535086, 53.880044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":32,
+        "BUS_ID": "4",
+        "NAME": "Чкалова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5348841, 53.876634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":33,
+        "BUS_ID": "4",
+        "NAME": "Старый аэропорт"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.535992,53.872074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":34,
+        "BUS_ID": "4",
+        "NAME": "Авакяна"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.54354, 53.872598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":35,
+        "BUS_ID": "4",
+        "NAME": "Левкова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5537809, 53.872211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":36,
+        "BUS_ID": "4",
+        "NAME": "Германовская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.561105, 53.86966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":37,
+        "BUS_ID": "4",
+        "NAME": "Железнодородная станция \"Минск-Южный\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5609314, 53.8655678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":38,
+        "BUS_ID": "4д",
+        "NAME": "Железнодородная станция \"Минск-Южный\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5609314, 53.8655678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":39,
+        "BUS_ID": "4д",
+        "NAME": "Германовская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.561105, 53.86966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":40,
+        "BUS_ID": "4д",
+        "NAME": "Воронянского"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5575209, 53.8774357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":41,
+        "BUS_ID": "4д",
+        "NAME": "Левкова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5537809, 53.872211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":42,
+        "BUS_ID": "4д",
+        "NAME": "Ковальская Слобода"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.550057, 53.879029]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":43,
+        "BUS_ID": "4д",
+        "NAME": "Детская библиотека №4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5499191, 53.880222]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":44,
+        "BUS_ID": "4д",
+        "NAME": "Жуковского"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5439079, 53.884969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":45,
+        "BUS_ID": "4д",
+        "NAME": "Красивая"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5439079, 53.884969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":46,
+        "BUS_ID": "4д",
+        "NAME": "Академия управления"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.538492, 53.888195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":47,
+        "BUS_ID": "4д",
+        "NAME": "ДС \"Дружная\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.546951, 53.8893383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":48,
+        "BUS_ID": "5д",
+        "NAME": "Михановичи (кладбище)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6886489, 53.7460816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":49,
+        "BUS_ID": "5д",
+        "NAME": "Коттеджи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6878089, 53.761882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":50,
+        "BUS_ID": "5д",
+        "NAME": "Агроусадьба"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.676558, 53.760171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":51,
+        "BUS_ID": "5д",
+        "NAME": "Садовое товарищество \"Сузорье\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.667256, 53.763493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":52,
+        "BUS_ID": "5д",
+        "NAME": "Кожзавод"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6489031, 53.776946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":53,
+        "BUS_ID": "5д",
+        "NAME": "10-я больница"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.652881, 53.838216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":54,
+        "BUS_ID": "5д",
+        "NAME": "Автобусные парк №6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.653436, 53.850349]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":55,
+        "BUS_ID": "5д",
+        "NAME": "Машиностроителей"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.634616, 53.855767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":56,
+        "BUS_ID": "5д",
+        "NAME": "Ташкентская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.631965, 53.839607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":57,
+        "BUS_ID": "5д",
+        "NAME": "ДС \"Чижовка\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6303889, 53.83514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":58,
+        "BUS_ID": "5э",
+        "NAME": "Михановичи (кладбище)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6886489, 53.7460816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":59,
+        "BUS_ID": "5э",
+        "NAME": "Коттеджи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6878089, 53.761882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":60,
+        "BUS_ID": "5э",
+        "NAME": "Лошицкая"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6569433, 53.7543028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":61,
+        "BUS_ID": "5э",
+        "NAME": "Садовое товарищество \"Сузорье\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.667256, 53.763493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":62,
+        "BUS_ID": "5э",
+        "NAME": "Асеевка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.627494, 53.784953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":63,
+        "BUS_ID": "5э",
+        "NAME": "Кожзавод"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6489031, 53.776946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":64,
+        "BUS_ID": "5э",
+        "NAME": "Уборевича"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6063429, 53.834294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":65,
+        "BUS_ID": "5э",
+        "NAME": "Чижовка-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.616311, 53.834378]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":66,
+        "BUS_ID": "5э",
+        "NAME": "ДС \"Чижовка\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6303889, 53.83514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":67,
+        "BUS_ID": "6",
+        "NAME": "ДС \"Дружная\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.546951, 53.8893383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":68,
+        "BUS_ID": "6",
+        "NAME": "Музыкальный театр"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5386359, 53.895351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":69,
+        "BUS_ID": "6",
+        "NAME": "2-й переулок Розы Люксембург"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.528663, 53.894607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":70,
+        "BUS_ID": "6",
+        "NAME": "Хмелевского"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5225011, 53.889511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":71,
+        "BUS_ID": "6",
+        "NAME": "Станция метро \"Грушевка\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5140309, 53.886556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":72,
+        "BUS_ID": "6",
+        "NAME": "Кузьмы Минина"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5080812, 53.8716851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":73,
+        "BUS_ID": "6",
+        "NAME": "Попова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5078881, 53.8668267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":74,
+        "BUS_ID": "6",
+        "NAME": "Проходная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5078431, 53.867017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":75,
+        "BUS_ID": "6",
+        "NAME": "9-я больница"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4973551, 53.859831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":76,
+        "BUS_ID": "6",
+        "NAME": "Каролинская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.483428, 53.848058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":77,
+        "BUS_ID": "6",
+        "NAME": "Наполеона Орды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.483658, 53.843853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":78,
+        "BUS_ID": "6",
+        "NAME": "Брилевичи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4747748, 53.8425613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":79,
+        "BUS_ID": "7",
+        "NAME": "ДС \"Курасовщина\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5176889, 53.8432714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":80,
+        "BUS_ID": "7",
+        "NAME": "Завод \"Транзистор\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.52042, 53.843702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":81,
+        "BUS_ID": "7",
+        "NAME": "Слуцкий Гостинец"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.534457, 53.844976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":82,
+        "BUS_ID": "7",
+        "NAME": "Поворот на Колядичи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5740289, 53.833693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":83,
+        "BUS_ID": "7",
+        "NAME": "Ручей"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5796361, 53.825028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":84,
+        "BUS_ID": "7",
+        "NAME": "База \"Белсельстрой\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.584751, 53.814022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":85,
+        "BUS_ID": "7",
+        "NAME": "Белавтогаз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5913819, 53.802851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":86,
+        "BUS_ID": "7",
+        "NAME": "Белмагистральавтотранс"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.593158, 53.800516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":87,
+        "BUS_ID": "7",
+        "NAME": "Колядичи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5938307, 53.7975367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":88,
+        "BUS_ID": "7а",
+        "NAME": "ДС \"Курасовщина\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5176889, 53.8432714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":89,
+        "BUS_ID": "7а",
+        "NAME": "Завод \"Транзистор\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.52042, 53.843702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":90,
+        "BUS_ID": "7а",
+        "NAME": "Переулок Корженевского"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5156963, 53.844529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":91,
+        "BUS_ID": "7а",
+        "NAME": "Слуцкий Гостинец"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.534457, 53.844976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":92,
+        "BUS_ID": "7а",
+        "NAME": "Поворот на Колядичи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5740289, 53.833693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":93,
+        "BUS_ID": "7а",
+        "NAME": "Ручей"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5796361, 53.825028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":94,
+        "BUS_ID": "7а",
+        "NAME": "База \"Белсельстрой\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.584751, 53.814022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":95,
+        "BUS_ID": "7а",
+        "NAME": "Автокомбинат №5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.587958, 53.808919]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":96,
+        "BUS_ID": "7а",
+        "NAME": "Железнодорожная станция \"Колядичи\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5732424, 53.8263559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":97,
+        "BUS_ID": "7а",
+        "NAME": "Белавтогаз"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5913819, 53.802851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":98,
+        "BUS_ID": "7а",
+        "NAME": "Белмагистральавтотранс"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.593158, 53.800516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":99,
+        "BUS_ID": "7а",
+        "NAME": "Колядичи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5938307, 53.7975367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":100,
+        "BUS_ID": "8",
+        "NAME": "ДС \"Сухарево-5\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.414792, 53.891058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":101,
+        "BUS_ID": "8",
+        "NAME": "Мазурова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.432248, 53.895287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":102,
+        "BUS_ID": "8",
+        "NAME": "Красный Бор"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.424526, 53.901119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":103,
+        "BUS_ID": "8",
+        "NAME": "Запад-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.436325, 53.900667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":104,
+        "BUS_ID": "8",
+        "NAME": "Станция метро \"Каменная горка\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.437634, 53.906873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":105,
+        "BUS_ID": "8",
+        "NAME": "ДС \"Кунцевщина\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.438237, 53.915933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":106,
+        "BUS_ID": "8",
+        "NAME": "Казимировская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.427661, 53.917212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":107,
+        "BUS_ID": "8",
+        "NAME": "Лабунщина"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4205981, 53.924155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":108,
+        "BUS_ID": "8",
+        "NAME": "Каменная горка-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4240781, 53.929209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":109,
+        "BUS_ID": "8",
+        "NAME": "Люцинская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.430263,53.93393]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":110,
+        "BUS_ID": "9",
+        "NAME": "Серебрянка-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.587482,53.862713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":111,
+        "BUS_ID": "9",
+        "NAME": "Поликлиника №18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.597468,53.860425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":112,
+        "BUS_ID": "9",
+        "NAME": "Горовца"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.615159,53.865458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":113,
+        "BUS_ID": "9",
+        "NAME": "Кинотеатр \"Комсомолец\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.628135,53.870655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":114,
+        "BUS_ID": "9",
+        "NAME": "Кулешова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.638432,53.873016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":115,
+        "BUS_ID": "9",
+        "NAME": "Станция метро \"Автозаводская\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6488751,53.86896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":116,
+        "BUS_ID": "9",
+        "NAME": "Варвашени"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.670013,53.865462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":117,
+        "BUS_ID": "9",
+        "NAME": "Молочный комбинат"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.68795,53.857037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":118,
+        "BUS_ID": "9",
+        "NAME": "Поворот на Шабаны"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.707397,53.846513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":119,
+        "BUS_ID": "9",
+        "NAME": "Поликлиника №36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.7017061,53.841265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":120,
+        "BUS_ID": "9",
+        "NAME": "Ротмистрова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.693827,53.84085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":121,
+        "BUS_ID": "9",
+        "NAME": "Селицкого"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.701217,53.835632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":122,
+        "BUS_ID": "9",
+        "NAME": "Предприятие \"Экорес\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.700644,53.828688]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":123,
+        "BUS_ID": "9",
+        "NAME": "Завод крупнопанельного домостроения"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.706724,53.821902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":124,
+        "BUS_ID": "9",
+        "NAME": "Завод ЭПК"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.697848,53.815914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":125,
+        "BUS_ID": "9",
+        "NAME": "Завод железобетонных изделий"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.689917,53.810603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":126,
+        "BUS_ID": "9д",
+        "NAME": "Серебрянка-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.587482,53.862713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":127,
+        "BUS_ID": "9д",
+        "NAME": "Поликлиника №18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.597468,53.860425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":128,
+        "BUS_ID": "9д",
+        "NAME": "Горовца"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.615159,53.865458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":129,
+        "BUS_ID": "9д",
+        "NAME": "Кинотеатр \"Комсомолец\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.628135,53.870655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":130,
+        "BUS_ID": "9д",
+        "NAME": "Кулешова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.638432,53.873016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":131,
+        "BUS_ID": "9д",
+        "NAME": "Станция метро \"Автозаводская\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.6488751,53.86896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":132,
+        "BUS_ID": "9д",
+        "NAME": "Варвашени"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.670013,53.865462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":133,
+        "BUS_ID": "9д",
+        "NAME": "Молочный комбинат"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.68795,53.857037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":134,
+        "BUS_ID": "9д",
+        "NAME": "Поворот на Шабаны"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.707397,53.846513]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":135,
+        "BUS_ID": "9д",
+        "NAME": "Поликлиника №36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.7017061,53.841265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":136,
+        "BUS_ID": "9д",
+        "NAME": "ДС \"Шабаны\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.7017061,53.841265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":137,
+        "BUS_ID": "10",
+        "NAME": "ДС \"Дружная\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.546951, 53.8893383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":138,
+        "BUS_ID": "10",
+        "NAME": "Академия управления"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.538492, 53.888195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":139,
+        "BUS_ID": "10",
+        "NAME": "Гостиница \"Спутник\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.535086, 53.880044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":140,
+        "BUS_ID": "10",
+        "NAME": "Радищева"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5419981,53.877812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":141,
+        "BUS_ID": "10",
+        "NAME": "Ковальская слобода"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.550057, 53.879029]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":142,
+        "BUS_ID": "10",
+        "NAME": "Левкова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5537809, 53.872211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":143,
+        "BUS_ID": "10",
+        "NAME": "Воронянского"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5575209, 53.8774357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":144,
+        "BUS_ID": "11",
+        "NAME": "ДС Веснянка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4798011, 53.932135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":145,
+        "BUS_ID": "11",
+        "NAME": "2-я городская детская больница"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4763819, 53.930776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":146,
+        "BUS_ID": "11",
+        "NAME": "Радужная"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.497854, 53.935338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":147,
+        "BUS_ID": "11",
+        "NAME": "Футбольный манеж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.509327, 53.931396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":148,
+        "BUS_ID": "11",
+        "NAME": "Чигладзе"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4945052, 53.92447]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":149,
+        "BUS_ID": "11",
+        "NAME": "Данилы Сердича"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.490042, 53.908952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":150,
+        "BUS_ID": "11",
+        "NAME": "Ольшевского"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.498094, 53.919392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":151,
+        "BUS_ID": "11",
+        "NAME": "Индустриально-педагогический колледж"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4797331, 53.914283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":152,
+        "BUS_ID": "11",
+        "NAME": "Петра Глебки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4731049, 53.908916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":153,
+        "BUS_ID": "11",
+        "NAME": "Запад-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.46317, 53.904366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":154,
+        "BUS_ID": "11",
+        "NAME": "Якубовского"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4427253, 53.904517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":155,
+        "BUS_ID": "11",
+        "NAME": "Бурдейного"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.436678, 53.904734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":156,
+        "BUS_ID": "11",
+        "NAME": "Мазурова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.432248, 53.895287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":157,
+        "BUS_ID": "11",
+        "NAME": "Поликлиника №10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.436439, 53.886466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":158,
+        "BUS_ID": "11",
+        "NAME": "Мачульского"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4411761, 53.876152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":159,
+        "BUS_ID": "11",
+        "NAME": "Маршала Лосика"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.443921, 53.873946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":160,
+        "BUS_ID": "11",
+        "NAME": "Юрия Семеняко"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.456384, 53.872711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":161,
+        "BUS_ID": "11",
+        "NAME": "Янковского"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4529161, 53.881859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":162,
+        "BUS_ID": "11",
+        "NAME": "Чайлытко"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.432248, 53.895287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":163,
+        "BUS_ID": "11",
+        "NAME": "Мазурова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.432248, 53.895287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":164,
+        "BUS_ID": "11",
+        "NAME": "Бурдейного"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.436678, 53.904734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":165,
+        "BUS_ID": "11",
+        "NAME": "Рынок \"Западный\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.455362, 53.90409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":166,
+        "BUS_ID": "11",
+        "NAME": "Тимошенко"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.461107, 53.907132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":167,
+        "BUS_ID": "12",
+        "NAME": "ДС \"Кунцевщина\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.438237, 53.915933]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":168,
+        "BUS_ID": "12",
+        "NAME": "Казимировская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.427661, 53.917212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":169,
+        "BUS_ID": "12",
+        "NAME": "Микрорайон Каменная Горка"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4175394, 53.911487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":170,
+        "BUS_ID": "12",
+        "NAME": "Нёманская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.4165753, 53.908475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":171,
+        "BUS_ID": "12",
+        "NAME": "Станция метро \"Каменная горка\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.437634, 53.906873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":172,
+        "BUS_ID": "12",
+        "NAME": "Запад-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.436325, 53.900667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":173,
+        "BUS_ID": "12",
+        "NAME": "Воложинская"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.426566, 53.901408]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":174,
+        "BUS_ID": "12",
+        "NAME": "Красный Бор"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.424526, 53.901119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":175,
+        "BUS_ID": "12",
+        "NAME": "Мазурова"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.432248, 53.895287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":176,
+        "BUS_ID": "12",
+        "NAME": "Пимена Панченко, 80"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.416968, 53.895201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "STATION_ID":177,
+        "BUS_ID": "12",
+        "NAME": "ДС \"Сухарево-5\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.414792, 53.891058]
+      }
+    }
+  ]
+}

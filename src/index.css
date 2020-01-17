@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.bus_block{
+  float:left;
+  width:20%;
+  max-height: 80vh;
+  overflow-y: scroll;
+}
+
+.bus{
+  padding: 5px;
+  color:#dc3131;
+}
+
+.bus:hover{
+  background-color: #dc313128;
+  cursor: pointer;
+  
+}
+
+.bus:focus {
+  background-color:#dc313162;
+}
+
+.bus:nth-child(2n+1) {
+  background-color: #eee;
+}
+
+.bus:nth-child(2n+1):hover {
+  background-color: #dc313128;
+}
+
+.bus:nth-child(2n+1):focus {
+  background-color:#dc313162;
+}
+
+.bus_number{
+  float:left
+}
+
+.bus_route{
+  float: right;
+}
+
+.map{
+  width: 80%;
+  height: 80vh;
+  float:right;
+}

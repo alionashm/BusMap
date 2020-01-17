@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "1",
+        "NAME": "ДС \"Веснянка\" - Вокзал"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "2с",
+        "NAME": "ДС \"Лошица-2\" - ст.м. Тракторный завод"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "3с",
+        "NAME": "ДС Чижовка - Вокзал"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "4",
+        "NAME": "ДС Дружная - Железнодорожная станция \"Минск-Южный\""
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "4д",
+        "NAME": "Железнодорожная станция \"Минск-Южный\" - ДС Дружная"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "5д",
+        "NAME": "ДС Чижовка - Михаловичи (кладбище)"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "5э",
+        "NAME": "ДС Чижовка - Михаловичи (кладбище)"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "6",
+        "NAME": "ДС Дружная - Брилевичи"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "7",
+        "NAME": "ДС \"Курасовщина\" - Колядичи"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "7а",
+        "NAME": "ДС \"Курасовщина\" - Жлезнодорожная станция \"Колядичи\" - Колядичи"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "8",
+        "NAME": "ДС \"Сухарево-5\" - Люцинская"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "9",
+        "NAME": "Серебрянка-9 - Завод железобетонных изделий"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "9д",
+        "NAME": "Серебрянка-9 - ДС Шабаны"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "10",
+        "NAME": "ДС Дружная - Воронянского"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "11",
+        "NAME": "ДС \"Веснянка\" - Маршала Лосика - ДС \"Веснянка\""
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "BUS_ID": "12",
+        "NAME": "ДС \"Кунцевщина\" - ДС \"Сухарево-5\""
+      }
+    }
+  ]
+}
